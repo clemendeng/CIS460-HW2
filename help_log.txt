@@ -1,0 +1,6 @@
+Office hours Monday 4:30-5:30 : minor syntax and conceptual questions on the construction/traversal, help from Ziad
+- what construction and traversal do, how to draw
+
+Office hours Tuesday 2-3 : GUI conceptual questions, help from Alexis, Adam
+- trying to add signals to Node class, realized should be adding to MyGL
+- how to know which node is clicked on in treeWidget? -> signal
